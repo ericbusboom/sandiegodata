@@ -1,0 +1,6 @@
+[submodule "planning-database"]
+	path = planning-database
+	url = https://github.com/sandiegodata/planning-database.git
+[submodule "water-quality-project"]
+	path = water-quality-project
+	url = https://github.com/san-diego-water-quality/water-quality-project.git
