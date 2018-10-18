@@ -7,3 +7,6 @@
 [submodule "data-projects"]
 	path = data-projects
 	url = https://github.com/sandiegodata-projects/data-projects.git
+[submodule "healthy-food"]
+	path = healthy-food
+	url = https://github.com/sandiegodata/healthy-food.git
