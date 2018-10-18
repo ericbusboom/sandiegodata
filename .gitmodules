@@ -4,3 +4,6 @@
 [submodule "water-quality-project"]
 	path = water-quality-project
 	url = https://github.com/san-diego-water-quality/water-quality-project.git
+[submodule "data-projects"]
+	path = data-projects
+	url = https://github.com/sandiegodata-projects/data-projects.git
